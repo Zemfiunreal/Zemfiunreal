@@ -20,10 +20,14 @@ ____
 [![INSTAGRAM](https://img.shields.io/badge/-Zemfiunreal-090909?style=for-the-badge&logo=INSTAGRAM&logocolor=00648B)](https://www.instagram.com/zemfiunreal/)
 ![TWITTER](https://img.shields.io/badge/-Soon...-090909?style=for-the-badge&logo=TWITTER&logocolor=00648B)
 ![ICQ](https://img.shields.io/badge/-Soon...-090909?style=for-the-badge&logo=ICQ&logocolor=00648B)
-
+____
+____
 ## STAT:
 
 ![STATS](https://github-readme-stats.vercel.app/api?username=Zemfiunreal&show_icons=true&bg_color=f5f5dc)
+
+____
+____
 
 
 <a href="https://vk.com/nomaindi" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fvk.com%2Fnomaindi&4&0" width="132" height="132" border="0" title="QR код"></a>
