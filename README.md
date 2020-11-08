@@ -5,7 +5,7 @@
 
 ## Languages and Tools:
 
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logocolor=47C5FB)
+![Debian](https://img.shields.io/badge/-Debian-090909?style=for-the-badge&logo=Debian&logocolor=8b00ff)
 ![UBUNTU](https://img.shields.io/badge/-Ubuntu-090900?style=for-the-badge&logo=Ubuntu&logocolor=E9D54D)
 
 ![JAVA](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logocolor=E9D54D)
