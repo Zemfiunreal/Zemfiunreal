@@ -1,6 +1,15 @@
 
 ## HI , I'm a beginner in programming engineering
-
+<head>
+<link href="<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css" />
+<body>
+    <div class="text">
+     <p>
+         Languages and Tools:
+      </p>
+    </div>
+</body>
 
 
 ## Languages and Tools:
