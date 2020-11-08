@@ -1,18 +1,10 @@
 
 ## HI , I'm a beginner in programming engineering
-<head>
-<link href="<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css" />
-<body>
-    <div class="text">
-     <p>
-         Languages and Tools:
-      </p>
-    </div>
-</body>
+
 
 
 ## Languages and Tools:
+
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logocolor=47C5FB)
 ![UBUNTU](https://img.shields.io/badge/-Ubuntu-090900?style=for-the-badge&logo=Ubuntu&logocolor=E9D54D)
 
