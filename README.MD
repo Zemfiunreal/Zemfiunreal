@@ -1,4 +1,4 @@
-# 👨‍💻 Привет, я [Твоё Имя]!  
+# 👨‍💻 Привет, я zemfi!  
 ### Fullstack-разработчик | Open Source энтузиаст | Инженер
 
 ---
@@ -11,8 +11,7 @@
 - 🔭 Сейчас я работаю над **[название текущего проекта]**
 - 🌱 Активно изучаю **Rust / AI / Cloud Native**
 - 💬 Спрашивай меня о **JavaScript, TypeScript, Python, DevOps**
-- 📫 Как связаться: **[email@example.com](mailto:email@example.com) | [Telegram](https://t.me/username)**
-- ⚡ Интересный факт: когда не пишу код — играю на гитаре / бегаю марафоны
+- 📫 Как связаться: **kto?**
 
 ---
 
@@ -53,29 +52,20 @@
 
 ## 🏆 Последние проекты
 
-### 🎯 [Название проекта 1](ссылка-на-репозиторий)
+### 🎯 В разработке(ссылка-на-репозиторий)
 Краткое описание: микросервисный backend на Go с gRPC и Kafka.  
 Технологии: `Go`, `Docker`, `PostgreSQL`, `Kubernetes`
 
-### 📱 [Название проекта 2](ссылка-на-репозиторий)
-Краткое описание: Next.js приложение с SSR и авторизацией.  
-Технологии: `TypeScript`, `Next.js`, `Prisma`, `TailwindCSS`
+
 
 ---
 
 ## 🌍 Связь со мной
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](скоро)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](скоро)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](скоро)
 
 ---
 
 ### 🧠 «Код — это поэзия, а хороший программист — поэт, который умеет слушать машину».
-
----
-
-> **Подсказка:**  
-> Замени `твой-username`, ссылки и названия проектов на свои данные.  
-> Чтобы статистика отображалась, профиль должен быть публичным.  
-> Можно добавить раздел с хакатонами, сертификатами или статьями.
